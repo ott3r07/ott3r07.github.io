@@ -6,6 +6,7 @@ categories:
 tags:
 - wargames
 - pwnable.kr
+- payload
 ---
 
 [pwnable.kr 문제 풀이 목록 바로가기](/categories/pwnable-kr)
